@@ -11,15 +11,16 @@ ML-Panic-Attack-Detection is a machine learning-powered web application that pre
 ✅ REST API Support – Easily extendable for integrations <br />
 ✅ Modern Web Design – Fully responsive with HTML, CSS, and JavaScript <br />
 
-📸 Screenshots:
+📸 Screenshots:<br />
 
 🔹 User Input Form <br />
+![Image](https://github.com/user-attachments/assets/2979cd1b-d682-4029-85e9-d22ddb44a052)
 
 🔹 Predicted Panic Score Resul t<br />
+![Image](https://github.com/user-attachments/assets/9f081b21-0350-4f0c-bd15-4996f44acfd4)
 
-
-🚀 Installation & Setup
-🔹 1️⃣ Clone the Repository
+🚀 Installation & Setup: <br />
+🔹 1️⃣ Clone the Repository <br />
 ```bash
 git clone https://github.com/SamRobinSingh/ML-Panic-Attack-Detection.git
 cd ML-Panic-Attack-Detection
