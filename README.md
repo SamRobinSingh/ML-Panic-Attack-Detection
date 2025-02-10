@@ -11,10 +11,11 @@ ML-Panic-Attack-Detection is a machine learning-powered web application that pre
 ✅ REST API Support – Easily extendable for integrations <br />
 ✅ Modern Web Design – Fully responsive with HTML, CSS, and JavaScript <br />
 
-📸 Screenshots
-🔹 User Input Form
+📸 Screenshots:
 
-🔹 Predicted Panic Score Result
+🔹 User Input Form <br />
+
+🔹 Predicted Panic Score Resul t<br />
 
 
 🚀 Installation & Setup
