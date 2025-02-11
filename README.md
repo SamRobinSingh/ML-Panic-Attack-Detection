@@ -41,6 +41,13 @@ uvicorn main:app --reload
 ```
 
 
+### *📌 Technologies Used*
+🔹 FastAPI – Backend API Framework <br />
+🔹 Scikit-Learn – Machine Learning Model <br />
+🔹 Pandas & Joblib – Data Processing & Model Serialization <br />
+🔹 HTML, CSS, JavaScript – Frontend UI <br />
+🔹 Uvicorn – Server Deployment <br />
+
 
 
 
